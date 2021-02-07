@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <PackageId>PowerPack.BlazorState</PackageId>
-    <Version>0.0.1</Version>
+    <Version>0.0.2</Version>
     <Authors>Bart Calixto</Authors>
     <Company>Dot Uy</Company>
     <Product>PowerPack Blazor State</Product>
@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="5.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Components" Version="5.0.2" />
   </ItemGroup>
 
 </Project>
